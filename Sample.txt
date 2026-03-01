@@ -1,3 +1,6 @@
 This is an example file by deepak
 This is an example file by Dipak
+<<<<<<< HEAD
 
+=======
+>>>>>>> aada41e74bdacd71d689e4420f9dfbda3d8af3d9

@@ -1,5 +1,6 @@
 This is an example file by deepak
 This is an example file by Dipak
+The great
 <<<<<<< HEAD
 
 =======
